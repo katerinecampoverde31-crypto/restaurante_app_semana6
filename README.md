@@ -36,6 +36,7 @@ Al iniciar el programa se registran algunos platillos y bebidas de ejemplo. Desp
 Si el producto existe, se muestra toda su información. Si no existe, el programa mostrará el mensaje:
 
 **"Producto no existe."**
+
 ## Tecnologías utilizadas
 - Python 3
 - Programación Orientada a Objetos
