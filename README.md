@@ -43,4 +43,4 @@ Si el producto existe, se muestra toda su información. Si no existe, el program
 - GitHub
 
 ## Autora
-Katerine Campoverde
+Josselyn Katerine Campoverde Encarnación
