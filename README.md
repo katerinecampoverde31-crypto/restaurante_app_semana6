@@ -44,3 +44,14 @@ Si el producto existe, se muestra toda su información. Si no existe, el program
 
 ## Autora
 Josselyn Katerine Campoverde Encarnación
+## Herencia
+La clase `Producto` es la clase base del sistema. Las clases `Platillo` y `Bebida` heredan de `Producto`, reutilizando sus atributos y métodos, además de incorporar características propias.
+
+## Encapsulación
+Se protegió el atributo `__precio` mediante encapsulación, permitiendo su acceso únicamente a través de los métodos definidos en la clase.
+
+## Polimorfismo
+El método `mostrar_informacion()` se implementó en las clases `Platillo` y `Bebida`, permitiendo que cada objeto muestre su información de acuerdo con su tipo.
+
+## Reflexión
+La Programación Orientada a Objetos permite desarrollar programas más organizados, reutilizables y fáciles de mantener. La aplicación de herencia, encapsulación y polimorfismo mejora la estructura y facilita futuras ampliaciones del sistema.
